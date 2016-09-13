@@ -8,10 +8,9 @@ This a cheatsheet that will cover most of the commands/situation you will encoun
 
 **Start a jupyter container with your current directory mounted**
 
-`docker run -d -p 8888:8888 -v $(pwd):/home/jovyan/work jupyter/scipy-notebook`
+`docker run -d -p 8888:8888 -v "$(pwd)":/home/jovyan/work jupyter/scipy-notebook`
 
 *Notes*
-* This only works if your current path has not spaces inside of it
 * Do not change `/home/jovyan/work`. This is a setting for the container
 
 ## Stopping a container
