@@ -2,9 +2,9 @@
 This a cheatsheet that will cover most of the commands/situation you will encounter in this class!
 
 ## You don't need to use Docker to win at Kaggle
+**As an alternative to Docker, you can [install anaconda](https://www.continuum.io/downloads)
 ![Windoze troll](https://i.imgflip.com/1amtdy.jpg)
 
-**As an alternative to Docker, you can [install anaconda](https://www.continuum.io/downloads)
 
 ## Starting a jupyter container
 **Start a jupyter notebook container without mounting a directory**
