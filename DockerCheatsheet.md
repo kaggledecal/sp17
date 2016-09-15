@@ -60,4 +60,5 @@ Our apologies for this! This is what happens when PDFs encode hyphens apparently
 
 * I am on windows and `X` keeps happening.
 You can find us during office hours or take the easy way out and [install anaconda](https://www.continuum.io/downloads)
+
 ![Windoze troll](https://i.imgflip.com/1amtdy.jpg)
