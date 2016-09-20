@@ -1,6 +1,10 @@
 # Docker Cheatsheet
 This a cheatsheet that will cover most of the commands/situation you will encounter in this class!
 
+
+
+
+
 ## Starting a jupyter container
 **Start a jupyter notebook container without mounting a directory**
 
@@ -53,3 +57,8 @@ This usually means you already have a jupyter container running (or are running 
 * ```docker: Error parsing reference: "\u00add" is not a valid repository/tag See 'docker run --help'. ```
 
 Our apologies for this! This is what happens when PDFs encode hyphens apparently. All you need to do for this is copy the start container command from above and this issue will disappear
+
+* I am on windows and `X` keeps happening.
+You can find us during office hours or take the easy way out and [install anaconda](https://www.continuum.io/downloads)
+
+![Windoze troll](https://i.imgflip.com/1amtdy.jpg)
