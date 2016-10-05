@@ -1,3 +1,4 @@
 .DS_Store
 sentinel
-__pycache__
+__pycache__/
+.ipynb_checkpoints/
