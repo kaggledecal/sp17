@@ -1,5 +1,5 @@
 # Data Science with Kaggle Decal Fall 2016 Repo
-## Taught by Jerry Chen, [Phillip Kuznetsov](https://github.com/philkuz), Joseph Simonian, Maxwell Johansen
+## Taught by Jerry Chen, [Phillip Kuznetsov](https://github.com/philkuz), [Joseph Simonian](https://github.com/jsimonian), Maxwell Johansen
 Repository of the Data Science Decal taught at UC Berkeley in Fall semester 2016. 
 
 To get started on the coursework, you'll first need to clone the repo:
