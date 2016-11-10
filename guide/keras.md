@@ -6,6 +6,10 @@ In your terminal, all you need to run is
 ```
 docker run -d -p 8888:8888 ermaker/keras-jupyter
 ```
+If you want to mount the current directory, use 
+```
+docker run -d -p 8888:8888 -v $(pwd):/notebook ermaker/keras-jupyter
+```
 and you're done! The docker daemon will install the keras container, and all you need is to load up localhost:8888 to open it with the jupyter notebook server!
 
 ## The other way
