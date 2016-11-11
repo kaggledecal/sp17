@@ -35,7 +35,7 @@ After running this command, then simply run
 ```
 pip install tensorflow keras
 ```
-So if I were installing this on my Mac OS w/o a CPU, the set of commands would simply be
+So if I were installing this on my Mac OS w/ only a CPU, the set of commands would simply be
 ```
 export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.11.0rc2-py3-none-any.whl
 pip install tensorflow keras
