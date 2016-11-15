@@ -22,20 +22,20 @@ You'll want to install TensorFlow before you install Keras. As long as you have 
 I've added a list of relevant lines here, however there's also instructions for other [hardwares and python versions](https://www.tensorflow.org/versions/r0.11/get_started/os_setup.html).
 ```
 # Ubuntu/Linux 64-bit, CPU only, Python 3.4
-$ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.11.0rc2-cp34-cp34m-linux_x86_64.whl
+export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.11.0rc2-cp34-cp34m-linux_x86_64.whl
 
 # Ubuntu/Linux 64-bit, CPU only, Python 3.5
-$ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.11.0rc2-cp35-cp35m-linux_x86_64.whl
+export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.11.0rc2-cp35-cp35m-linux_x86_64.whl
 
 # Mac OS X, CPU only, Python 3.4 or 3.5:
-$ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.11.0rc2-py3-none-any.whl
+export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.11.0rc2-py3-none-any.whl
 ```
 
 After running this command, then simply run
 ```
 pip install tensorflow keras
 ```
-So if I were installing this on my Mac OS w/o a CPU, the set of commands would simply be
+So if I were installing this on my Mac OS w/ only a CPU, the set of commands would simply be
 ```
 export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.11.0rc2-py3-none-any.whl
 pip install tensorflow keras
