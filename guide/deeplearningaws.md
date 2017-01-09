@@ -1,15 +1,15 @@
 # Deep Learning on AWS
 8 January, 2017
 
-In this article you're going to learn how to setup a Deep Learning Server on Amazon so that you can run all of your favorite Neural Network models on the hardware you need.
+In this article you're going to learn how to setup a Deep Learning Server on Amazon so that you can run all of your favorite Neural Network models on the hardware you need. Not only that, I'll also show you how to setup a Jupyter Notebook Server to make neural network development much easier with a nice graphical interface.
 
 This is an excellent alternative to buying your own GPU because it requires a fraction of the cost and you'll not have to deal with the headache of setting up a deep learning machine from scratch.
 
-Furthermore, if you're a student in high school or college, you can easily get a bunch of AWS credits from Amazon's student portal.
+Furthermore, if you're a student in high school or college, you can easily get a bunch of free AWS credits from [AWS Educate](http://www.awseducate.com/)
 
-This guide will use the AMI managed by Github user [Miej](https://github.com/Miej) which he calls [GoDeeper](https://github.com/Miej/GoDeeper). It has a bunch of really useful packages ranging from Tensorflow, Keras, Torch and even OpenCV so you can run all of the cool researchy deep learning repos you desire with ease. Go to the repo link if you'd like to learn what else is in the document.
+This guide will use the AMI managed by Github user [Miej](https://github.com/Miej) which he calls [GoDeeper](https://github.com/Miej/GoDeeper). It has a bunch of really useful packages ranging from Tensorflow, Keras, Torch and even OpenCV so that you can run all of the cool researchy deep learning repos you desire with ease. Go to the repo link if you'd like to learn what else is in the document.
 
-Now let's move on with the meet of this problem. If you were to go straight to running p2 instance in Northern Oregon, you'll start to burn through your AWS money quickly. However, there is a better method than simply launching instances. I typically use these things called spot requests. Basically, you bid for server time and the cost becomes significantly lower than the set pricing of regular instances. There's certainly a risk that setting a maximum bid will eventually cause you to be kicked off at any one moment, but I have never had this issue in the past and by setting a reasonably high max price you shouldn't run into this problem.
+Now let's move on with the meat of this problem. If you were to go straight to running p2 instance in Northern Oregon, you'll start to burn through your AWS money quickly. However, there is a better method than simply launching instances. I typically use these things called spot requests. Basically, you bid for server time and the cost becomes significantly lower than the set pricing of regular instances. There's certainly a risk that setting a maximum bid will eventually cause you to be kicked off at any one moment, but I have never had this issue in the past and by setting a reasonably high max price you shouldn't run into this problem.
 
 Amazon publishes the [current pricing](https://aws.amazon.com/ec2/spot/pricing/). For me in the US, the two closest regions that have p2 instances are North Virginia and Oregon. I've found that the cheaper region is never consistent, so you should definitely research the cheaper pricing if that's a concern for you or if you live in another regioin of the world. You can use the spot pricing tool to see whether any region has a p2 instance. If you see an N/A next to the p2 instance, that means this type of machine is not available in that region.
 
