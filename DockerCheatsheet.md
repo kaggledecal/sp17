@@ -1,5 +1,6 @@
 # Docker Cheatsheet
-This a cheatsheet that will cover most of the commands/situation you will encounter in this class!
+This a cheatsheet that will cover most of the commands/situation you will encounter in this class!  If you want to learn more, [here's a more in depth cheatsheet](
+https://github.com/wsargent/docker-cheat-sheet)
 
 
 
