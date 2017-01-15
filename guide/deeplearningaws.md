@@ -1,7 +1,7 @@
 # Deep Learning on AWS
 8 January, 2017
 
-In this article you're going to learn how to setup a Deep Learning Server on AWS so that you can run all of your favorite Neural Network models on the hardware you need. Not only that, I'll also show you how to setup a Jupyter Notebook Server to make your neural network experiments that much easier.
+In this video you're going to learn how to setup a Deep Learning Server on AWS so that you can run all of your favorite Neural Network models on the hardware you need. Not only that, I'll also show you how to setup a Jupyter Notebook Server to make your neural network experiments that much easier.
 
 AWS is an excellent alternative to buying your own GPU. Running an Amazon GPU instance costs a fraction compared to new hardware and you won't have to deal with setting your machine up from scratch.
 
@@ -81,4 +81,4 @@ git clone https://github.com/philkuz/Neural-Network-Zoo
 ```
 Once you see a success signal, close the window you are in, and you should see a new folder called `Neural-Network-Zoo`. Enter the folder and open any notebook you'd like, try running the cells and seeing if they work. On initial runs, it'll take some more time because tensorflow has to initialize the gpus first, but you'll have no problems on later runs.
 
-And with that embark on your deep learning journeys friend. Let me know through git issues or pull requests what you think should be changed to this guide. 
+And with that embark on your deep learning journeys friend. Let me know through git issues or pull requests what you think should be changed to this guide.
