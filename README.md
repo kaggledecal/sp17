@@ -1,5 +1,5 @@
 # Data Science with Kaggle Decal Spring 2017
-## Taught by [Phillip Kuznetsov](https://github.com/philkuz), [Raul Puri](https://github.com/raulpuric), Humza Iqbal, James Bartlett, Dan Geng
+## Taught by [Phillip Kuznetsov](https://github.com/philkuz), [Raul Puri](https://github.com/raulpuric), Humza Iqbal, James Bartlett, [Dan Geng](https://github.com/dangeng)
 Data Science Decal taught at UC Berkeley Spring Semester 2017
 
 To get started on the coursework, you'll first need to clone the repo:
