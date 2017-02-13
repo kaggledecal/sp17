@@ -5,4 +5,7 @@ Data Visualization Lecture.
 
 [Video]()
 
+## Notebooks
+[data-vis1](https://github.com/kaggledecal/sp17/blob/master/day03/data_vis.ipynb)
+[data-vis2](https://github.com/kaggledecal/sp17/blob/master/day03/visualization.ipynb)
 
