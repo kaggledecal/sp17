@@ -10,4 +10,6 @@ Introduction to numpy and scientific computing. We will be briefly going over th
 
 ## Notebooks
 [intro-to-numpy](https://github.com/kaggledecal/sp17/blob/master/day02/intro-to-numpy.ipynb)
+
+
 [intro-to-jupyter](https://github.com/kaggledecal/sp17/blob/master/day02/intro-to-jupyter.ipynb)
