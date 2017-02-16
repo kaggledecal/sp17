@@ -1,7 +1,7 @@
 # Day 4
 Classification vs Regressio. 
 
-[Slides](https://docs.google.com/presentation/d/16zpoPNRgFABtlnsCwcCSfMZDZSFysDjGzRR1TQ0QznA/edit#slide=id.g1c9c0ac5fa_0_0)
+[Slides](https://docs.google.com/a/berkeley.edu/presentation/d/16zpoPNRgFABtlnsCwcCSfMZDZSFysDjGzRR1TQ0QznA/edit?usp=sharing)
 
 [Video](https://youtu.be/nq5RLYvOwFg)
 
