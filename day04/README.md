@@ -6,6 +6,6 @@ Classification vs Regressio.
 [Video](https://youtu.be/nq5RLYvOwFg)
 
 ## Notebooks
-[Classification and Regression](https://github.com/kaggledecal/sp17/blob/master/day03/Classification+Regression.ipynb)
+[Classification and Regression](https://github.com/kaggledecal/sp17/blob/master/day03/Classification + Regression.ipynb)
 
 
