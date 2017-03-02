@@ -2,5 +2,4 @@
 sentinel
 __pycache__/
 .ipynb_checkpoints/
-project1/label.mat
-project1/data.mat
+project1/test_labels.csv
