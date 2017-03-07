@@ -14,15 +14,15 @@ Note that this is not an easy class. The student facilitators intend to provide 
 
 Listed below is a subset of topics you will learn from this course:
 
-1.      Python programming
+1.    Python programming
 
-2.      Data interpretation, data munging, and visual analysis
+2.    Data interpretation, data munging, and visual analysis
 
-  a.      Numerical and Text
+3.    Numerical and Text
 
-3.      Linear and Logistic Regression
+3.    Linear and Logistic Regression
 
-4.      Clustering Techniques
+4.    Clustering Techniques
 
 5.    RandomForest
 
@@ -64,7 +64,7 @@ There will be 3 hours of lecture per week in addition to office hours. Assignmen
 
 Assignments early on will be graded on completeness. In-class Kaggle assignments will be graded on whether the prediction score is above a certain threshold. Final projects will be graded on completeness, quality of response, accuracy, and team mate evaluations. There will be 2 open-ended projects throughout the latter half of the semester. All assignments, projects, and attendance will be assigned a point value with a general weighting scheme of 40% assignments, and 60% projects.  In order to pass the class, you must pass the minimum accuracy threshold for all assignments and projects.
 
-## Required Online Reading Schedule:
+## Suggested Online Reading Schedule:
 
 These are hand-picked resources the student instructors strongly believe will help you understand lecture.
 
@@ -100,11 +100,12 @@ Python for Data Analysis by Wes McKinney: [http://shop.oreilly.com/product/06369
 
 The Signal and the Noise by Nate Silver: [https://en.wikipedia.org/wiki/The_Signal_and_the_Noise](https://en.wikipedia.org/wiki/The_Signal_and_the_Noise)
 
-Book for nitty-gritty of neural networks:[http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/)
+Book for nitty-gritty of neural networks:
+[http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/)
 
 Recurrent Neural Networks:
 
-  [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+[http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ## Extra Credit:
 
@@ -120,37 +121,37 @@ Since this is a project-team-based class, attendance is mandatory. We will be ke
 
 2/6 - Decal Kickoff. Overview of tools that will be in play. This lecture will help you determine if you need to go to the bootcamp.
 
-2/8 - (Optional)Python setup. Coding environment setup. Variables/Data Types. If, for, while statements.
+2/8 - (Optional) Python setup. Coding environment setup. Variables/Data Types. If, for, while statements.
 
-2/13 - (Optional) Reading data. Structure of arrays/matrices/dataframes. Objects. Histograms and missing value imputation. Summary statistics.
+2/13 - (Optional) Data Visualization. Reading data. Structure of arrays/matrices/dataframes. Objects. Histograms and missing value imputation. Summary statistics.
 
-2/15 - (Optional). More summary statistics. Custom functions and global/local frames.
+2/15 - (Optional). Difference between Classification and Regression. Exploring data hands on.
 
-2/20 - Overview of class. Introduction of Titanic data set. Hands-on data exploration. Plots. Summary statistics.
+2/20 - President's Day: No Class
 
 2/22 - Data cleaning. Regular expressions.
 
-2/27 - Linear Regression. Assumptions for intuition. Residuals. Interpretation. Practical example on Titanic. Example of linear dependence (Santander data set add-on).
+2/27 - Linear Regression. Assumptions for intuition. Residuals. Interpretation. Practical example on Titanic. Example of linear dependence.
 
 3/1 - Logistic Regression. Assumptions for intuition. Difference from Linear Regression. Practical example on Titanic. Regression assignment due 3/5.
 
-*Form Teams Here. Deadline to submit team proposals is 3/13.*
+*Project 1 released. Due March 17th*
 
 3/6 - Introduction of Digit Recognition data set. Linear and logistic regression. KNN clustering.
 
-3/8 - K-means
+3/8 - K-means and Cross-Validation. Sign up for awseducate
 
-3/13 - In-class implementation of KNN.
+3/13 - In-class implementation of KNN. Bias and variance tradeoff.
 
-3/15 - Validation Method. Cross Validation. Review of all models. KNN assignment due 3/20
+3/15 - Decision Trees.
 
-3/20 - Introduction of Auto-Librarian data set. NLP: bag-of-words model. Open-ended project instructions.
+3/20 - Random Forests.
 
-3/22 - Random Forests.
+3/22 - Lecture on Amazon Web Services (AWS).
 
-3/27 - Review. More practice/catchup day.
+3/27 - Spring Recess: No Class
 
-3/29 - Guest speaker. Auto-librarian project and RandomForest assignment due on 10/30.
+3/29 - Spring Recess: No Class
 
 4/3 - Introduction to Neural Networks
 
@@ -158,8 +159,12 @@ Since this is a project-team-based class, attendance is mandatory. We will be ke
 
 4/10 - Introduction to Convolutional Neural Nets through Keras
 
-4/12 - The Neural Network zoo
+4/12 - Recurrent Neural Networks. Text recurrence.
 
-4/17 - 4/19 - AWS
+4/17 - Anomaly Deterction. Using LSTMs.
 
-4/24, 4/26 - Guest Lecturers
+4/19 - Guest Lectures
+
+4/24 - Guest Lectures
+
+4/26 - Final Lecture. Review.
