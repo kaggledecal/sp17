@@ -1,6 +1,6 @@
 #Day 11
 ## Decision Trees
-[Decision Tree Notebook](https://github.com/kaggledecal/sp17/blob/master/day10/knn.ipynb)
+[Decision Tree Notebook](https://github.com/kaggledecal/sp17/blob/master/day11/Decision%20Trees.ipynb)
 
 
 
