@@ -5,6 +5,6 @@
 
 
 
-[Slides](https://docs.google.com/presentation/d/1E3xTsMv4DZ5_c9BVN4KQ-qQ3gXh__TCybWL52Nt0yXo/edit#slide=id.p)
+[Slides](https://docs.google.com/a/berkeley.edu/presentation/d/1E3xTsMv4DZ5_c9BVN4KQ-qQ3gXh__TCybWL52Nt0yXo/edit?usp=sharing)
 
 [Video]
