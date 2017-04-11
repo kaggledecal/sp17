@@ -1,5 +1,6 @@
 .DS_Store
 sentinel
 __pycache__/
+*.py[co]
 .ipynb_checkpoints/
 project1/test_labels.csv
